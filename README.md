@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Rahul-Palamuru
+- 👋 Hi, I’m @Rahul-Palamuru; IT Recruiter
 - 👀 I’m interested in connecting with fellow coders
 - 🌱 I’m currently sourcing talent for various IT roles
-- 💞️ I’m looking to collaborate and find the best position for you
+- 💞️ I’m looking to collaborate and find the best role for you based on your aspirations, goals.
 - 📫 How to reach me email: prahulsai419@gmail.com
 LinkedIn: https://www.linkedin.com/in/rahulpalamuru/
 
